@@ -1,0 +1,18 @@
+{
+  "task": "Task 6 - The Binary Decision",
+  "default_threshold_0_50": {
+    "accuracy": 1.0,
+    "recall_malignant": 1.0,
+    "precision_malignant": 1.0,
+    "false_negatives": 0,
+    "false_positives": 0
+  },
+  "cost_optimized_threshold": {
+    "threshold": 0.2863636363636364,
+    "accuracy": 1.0,
+    "recall_malignant": 1.0,
+    "precision_malignant": 1.0,
+    "false_negatives": 0,
+    "false_positives": 0
+  }
+}
